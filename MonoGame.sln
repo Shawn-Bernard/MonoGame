@@ -3,11 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGame", "MonoGame.csproj", "{90FB4C0B-9417-4F57-A585-CB8250332A28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonoGame", "MonoGame.csproj", "{90FB4C0B-9417-4F57-A585-CB8250332A28}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nez.MG38", "Nez-master\Nez.Portable\Nez.MG38.csproj", "{29D82D17-08AF-46F4-B3F6-E9BFCE714921}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{3453B868-9EC1-4E22-BF9E-215E9189CC88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nez.MG38", "..\Nez-master\Nez.Portable\Nez.MG38.csproj", "{F28C27C9-1094-435A-9F9D-A925FECC29A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +17,10 @@ Global
 		{90FB4C0B-9417-4F57-A585-CB8250332A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90FB4C0B-9417-4F57-A585-CB8250332A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90FB4C0B-9417-4F57-A585-CB8250332A28}.Release|Any CPU.Build.0 = Release|Any CPU
-		{29D82D17-08AF-46F4-B3F6-E9BFCE714921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{29D82D17-08AF-46F4-B3F6-E9BFCE714921}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{29D82D17-08AF-46F4-B3F6-E9BFCE714921}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{29D82D17-08AF-46F4-B3F6-E9BFCE714921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F28C27C9-1094-435A-9F9D-A925FECC29A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28C27C9-1094-435A-9F9D-A925FECC29A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28C27C9-1094-435A-9F9D-A925FECC29A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28C27C9-1094-435A-9F9D-A925FECC29A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
